@@ -1,4 +1,4 @@
-/* Maple Baldwin
+/* Maple
  * 18/10/23
  * Program to calculate admission costs for Indiana National Park
  */
